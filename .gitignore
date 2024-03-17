@@ -1,3 +1,5 @@
 .vscode
 a.out
 puzzle_input.txt
+.DS_STORE
+rooms.txt
